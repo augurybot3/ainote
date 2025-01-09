@@ -22,7 +22,7 @@ you can set a developer message for further instructional guidance.
 
 ```python
 ai.dev_chat("this is the developer message")
-response = ai.chat("this is the normal "user message")
+response = ai.chat("this is the normal 'user' message")
 ```
 
 you can also send images to chat over
