@@ -1,4 +1,4 @@
-# jupyter-chat
+# ainote
 
 A basic idea that I've found useful.
 Pipe into your jupyter notebook, your favorite or most convenient LLM.
