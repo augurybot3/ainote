@@ -54,7 +54,7 @@ result:
 
 you can add images along with an optional message to get an immediate response:
 
-![my feelings about 2025 by Augurybot](images/test_image.jpeg)
+![A cartoon illustration showing a tired bunny lying on his side, knife in mouth, labeled ‘2024’ and a refreshed, curious bunny peeking out of a hole labeled ‘2025,’ symbolizing the transition from a challenging year to a hopeful new one - by augurybot](images/newyears2025.jpeg)
 
 ```python
 ai.image_chat("images/test_image.jpeg","do you get it?")
